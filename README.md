@@ -17,15 +17,14 @@
 ![Express](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack)
 
 <hr/>
 
-### Моя статистика: 🏆
+### <summary>Моя статистика: 🏆
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzlerx&show_icons=true&theme=radical&hide=true&line_height=17&count_private=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzlerx&show_icons=true&theme=radical&hide=true&line_height=17&count_private=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzzlerx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</summary>
 
 
