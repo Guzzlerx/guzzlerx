@@ -23,9 +23,9 @@
 ### Моя статистика: 🏆
 <br/>
 
-<div display=flex>
-  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=guzzlerx&show_icons=true&theme=radical&hide=true&line_height=17&count_private=true&card_width=200&hide_border=true">
-  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzzlerx&layout=compact&theme=radical&hide_border=true">
+<div>
+  <img height='150px' width='490px' src="https://github-readme-stats.vercel.app/api?username=guzzlerx&show_icons=true&theme=radical&hide=true&line_height=17&count_private=true&card_width=200&hide_border=true">
+  <img height='150px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzzlerx&layout=compact&theme=radical&hide_border=true">
 </div>
 
 
