@@ -16,8 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.JS)
-![Express](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 <hr/>
