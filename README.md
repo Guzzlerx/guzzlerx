@@ -3,6 +3,7 @@
 
 ### Мой стек:
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![React_Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
