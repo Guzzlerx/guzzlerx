@@ -3,10 +3,10 @@
 
 ### Мой стек:
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![React_Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-teal?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-navy?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
