@@ -5,6 +5,7 @@
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![React_Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
+![Vue](https://img.shields.io/badge/-Vue-teal?style=for-the-badge&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&logo=css3)
